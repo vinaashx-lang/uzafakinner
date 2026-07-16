@@ -1,0 +1,6 @@
+cc-shop/
+├── app.py
+├── requirements.txt
+├── .streamlit/
+│   └── config.toml          # optional dark theme
+└── README.md
