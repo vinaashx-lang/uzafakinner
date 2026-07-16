@@ -1,6 +1,6 @@
-cc-shop/
-├── app.py
-├── requirements.txt
-├── .streamlit/
-│   └── config.toml          # optional dark theme
-└── README.md
+streamlit
+pandas
+openpyxl
+xlrd
+hashlib  # stdlib
+sqlite3  # stdlib
