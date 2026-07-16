@@ -1,6 +1,0 @@
-streamlit
-pandas
-openpyxl
-xlrd
-hashlib  # stdlib
-sqlite3  # stdlib
